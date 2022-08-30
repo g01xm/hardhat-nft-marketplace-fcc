@@ -1,0 +1,16 @@
+# don't push the environment vars!
+.env
+
+# hardhat
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+typechain
+
+# Log Files
+*.log
+
+gas-report.txt
